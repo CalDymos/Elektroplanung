@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status--pending--source-gray)
+![Lizenz](https://img.shields.io/badge/license-GPL--3.0-blue)
+[![Project Maintenance](https://img.shields.io/maintenance/yes/2025.svg)](https://github.com/CalDymos/nuki-restbridge 'GitHub Repository')
+
 # Elektroplanung (Open Source Edition)
 
 ![Screenshot der Originalsoftware](./docs/screenshot.png)
