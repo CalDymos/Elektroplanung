@@ -1,5 +1,7 @@
 # Elektroplanung (Open Source Edition)
 
+![Screenshot der Originalsoftware](./docs/screenshot.png)
+
 **Elektroplanung** ist eine Planungssoftware zur Erstellung von Stromlaufplänen, Verteilerstrukturen und Symbolkatalogen für Elektroinstallationen.  
 Dieses Projekt setzt die Entwicklung der ursprünglichen Version von [MD Evolution](https://www.md-evolution.de/Seiten/Elektroplanung.html) als **freie und offene Software** fort.
 
